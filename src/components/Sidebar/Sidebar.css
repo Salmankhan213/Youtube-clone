@@ -1,0 +1,26 @@
+.sidebar{
+    background-color: rgb(254, 254, 254);
+
+}
+.sidebar .sidebar-inner:hover{
+    background-color: #e0dcdc;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.sidebar-top .sidebar-inner:hover{
+    width: 35px;
+    background-color: #e0dcdc;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.sidebar-top p{
+    display: none;
+}
+.active{
+    background-color: #e0dcdc;
+    color: rgb(0, 0, 0);
+}
+.sidebar-inner{
+    height: 40px !important;
+}
+
